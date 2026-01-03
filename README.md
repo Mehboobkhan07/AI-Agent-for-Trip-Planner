@@ -1,4 +1,4 @@
-# AI Trip Planner – LLM Agent (Full-Stack)
+# AI Trip Planner – LLM Agent 
 
 An AI-powered Trip Planner that generates personalized travel itineraries using an LLM-based agent.  
 The system is built with a **FastAPI backend**, **LLM agent reasoning**, and a **Streamlit frontend UI**.
